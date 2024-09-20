@@ -1,0 +1,29 @@
+{
+    "clusters_number": 8,
+    "inf_threshold_sex": 20,
+    "sup_threshold_sex": 80,
+
+    "nb_question_USA": 17,
+    "meansUSA": [28.33, 3.37, 3.9, 54.36, 2.6, 7.1], 
+    "stdevUSA": [6.36, 7.95, 7.96, 17.72, 1.04, 1.44],
+    "total_diseaseUSA": 27265,
+    "total_disease_percentUSA": [8.53],
+    "thresholdUSA": 1.96,
+    "index_column_ynUSA": [2,3,4,7,8,10,11,14,15,16],
+
+    "nb_question_LISS": 29,
+    "mean_ageLISS": 51.01,
+    "stdev_ageLISS": 17.95,
+    "mean_bmiLISS": 25.61,
+    "stdev_bmiLISS": 4.76,
+    "percLISS": [2.54, 53.71, 21.63, 15.57, 10.08, 1.06, 5.33, 3.33, 4.51, 9.75, 2.34, 22.29],
+    "norm_meansLISS": [0, 0.53, 0.76, 0, 0.84, 0.068, 0.50],
+    "total_diseaseLISS": 1887,
+    "thresholdLISS": 1.96
+}
+
+
+
+
+
+
